@@ -1,0 +1,17 @@
+# OS and editors
+.DS_Store
+.idea/
+*.iml
+
+# Dart / DartNative
+.dart_tool/
+.dn-plugins-dependencies
+build/
+pubspec.lock
+
+# iOS / Android build state
+example_app/ios/Pods/
+example_app/ios/Podfile.lock
+example_app/android/.gradle/
+example_app/android/local.properties
+example_app/android/app/.cxx/
